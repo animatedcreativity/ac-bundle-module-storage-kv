@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-storage-kv",
+  "version": "0.0.3",
+  "description": "storage/kv.js: A module bundled by ac-bundle-module.",
+  "main": "storage/kv.js",
+  "scripts": {
+    "start": "node storage/kv.js"
+  },
+  "keywords": [
+    "storage/kv.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-storage-kv/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
